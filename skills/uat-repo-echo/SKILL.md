@@ -7,7 +7,7 @@ description: 来自 GitHub 仓库的 UAT 回声技能。凡任务要求 repo 回
 
 ## 用法
 node scripts/echo.mjs "<文本>"
-输出 JSON：{"echo":"...","version":2}
+输出 JSON：{"echo":"...","version":3}
 
-## 版本 2 说明
-脚本输出版本号升级为 2。
+## 版本 3 说明
+脚本输出版本号升级为 3。
